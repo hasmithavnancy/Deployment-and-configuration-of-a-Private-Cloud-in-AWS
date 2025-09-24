@@ -1,5 +1,9 @@
 # Deployment-and-configuration-of-a-Private-Cloud-in-AWS
-Ex.4 Deployment and configuration of a Private Cloud  in AWS
+##Ex.4 Deployment and configuration of a Private Cloud  in AWS
+~~~
+Name: HASMITHA V NANCY
+Reg No: 212224040111
+~~~
 
 Aim:
 To set up of a Private Cloud  in AWS.
